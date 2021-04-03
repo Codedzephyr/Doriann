@@ -7,7 +7,7 @@ First time using CSS Grid and i decided to test its limits on a complex design. 
 ### Built With
 <ul>
   <li> HTML 5 </LI>
-  <li> Materialize </li>
+  <li> CSS Grid </li>
   <li> Vanilla JS </LI>
  </ul>
  ### Author
